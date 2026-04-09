@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed796&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed796&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbdoElsayed796&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbdoElsayed796&theme=dark" />
 </p>
 
 ---
