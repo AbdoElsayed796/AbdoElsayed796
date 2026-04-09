@@ -1,95 +1,91 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hey 👋 What's up?</h1>
 
----
+###
 
-## 🚀 About Me
+<p align="left">My name is Abdelrahman and I'm a Computer and Systems Engineering Student</p>
 
-- 💻 Full Stack Developer
-- 🧠 Interested in problem solving and algorithms
-- ⚙️ Building web applications
-- 📫 Reach me at: your@email.com
+###
 
----
+<h2 align="left">About me</h2>
 
-## 🛠 Skills
+###
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,spring,java,js,python,mysql,git,linux" />
-</p>
+<h2 align="left">I code with</h2>
 
----
+###
 
-## 📊 GitHub Stats
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdoElsayed796&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoElsayed796&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🔥 Streak Stats
+###
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
----
+###
 
-## 📈 Activity Graph
+<img src="https://raw.githubusercontent.com/AbdoElsayed796/AbdoElsayed796/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoElsayed796/AbdoElsayed796/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoElsayed796/AbdoElsayed796/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdoElsayed796/AbdoElsayed796/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-orange?logo=java" />
-<img src="https://img.shields.io/badge/Python-blue?logo=python" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
-<img src="https://img.shields.io/badge/React-black?logo=react" />
-<img src="https://img.shields.io/badge/SpringBoot-green?logo=spring" />
-<img src="https://img.shields.io/badge/MySQL-blue?logo=mysql" />
-<img src="https://img.shields.io/badge/Git-red?logo=git" />
-<img src="https://img.shields.io/badge/Linux-black?logo=linux" />
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Mail System
-Full stack mail app using React + Spring Boot
-
-### 🔹 URL Shortener
-Short links generator using Express and MongoDB
-
-### 🔹 Linear Programming Solver
-Desktop solver using PyQt5
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-<a href="https://linkedin.com">
-LinkedIn
-</a>
-</p>
-
----
-
-⭐ From Abdulrahman
+###
