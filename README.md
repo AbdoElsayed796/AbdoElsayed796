@@ -15,7 +15,7 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,spring,java,js,python,mysql,git,linux,github,clion,vscode,pycharm,postman" />
+<img src="https://skillicons.dev/icons?i=react,spring,java,js,python,c,cpp,mysql,git,linux,github,clion,vscode,pycharm,postman" />
 </p>
 
 ---
