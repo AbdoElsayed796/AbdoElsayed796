@@ -15,7 +15,7 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,spring,java,js,python,mysql,git,linux,github,clion,intellij,vs_code" />
+<img src="https://skillicons.dev/icons?i=react,spring,java,js,python,mysql,git,linux,github,clion,intellij,vscode,pycharm,postman" />
 </p>
 
 ---
@@ -67,26 +67,14 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🔹 Mail System
-Full stack mail app using React + Spring Boot  
-[GitHub Repository](https://github.com/AbdoElsayed796/Mail-System)
-
-### 🔹 URL Shortener
-Short links generator using Express and MongoDB  
-[GitHub Repository](https://github.com/AbdoElsayed796/URL-Shortener)
-
-### 🔹 Linear Programming Solver
-Desktop solver using PyQt5  
-[GitHub Repository](https://github.com/AbdoElsayed796/LP-Solver)
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/abdelrahmanelsayed">LinkedIn</a> | 
+<a href="[https://linkedin.com/in/abdelrahmanelsayed](https://www.linkedin.com/in/abdelrahman-elsayed-36b66b1a7/)">LinkedIn</a> | 
 <a href="mailto:abdelrahmanelsayedgo2@gmail.com">Email</a>
 </p>
 
